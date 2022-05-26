@@ -12,3 +12,5 @@ some patient use them for personal Rehabilitation monitoring  such after iodine 
 Some Explorer like to use these models for Radiation searching.
 More interesting uses can be explored, please share them with us.
 all models could  communicate with computer if in need.
+we also publish  Multiple languages of user manual of geigerCounter:German,French,Italy,Spain,Russian.
+we translate language using Google translation.
